@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplicationUSBSecond</string>
+    <string name="button1">Получить информацию</string>
+    <string name="buttongetinfo">Получить информацию</string>
+</resources>
